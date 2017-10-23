@@ -1,4 +1,6 @@
-# Go Cheat Sheet
+Source: https://github.com/ashleymcnamara/go-lang-cheat-sheet/README.md
+
+# Go Cheat Sheet - from 
 
 # Index
 1. [Basic Syntax](#basic-syntax)
